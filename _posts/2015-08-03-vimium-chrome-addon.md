@@ -2,7 +2,7 @@
 layout: post
 title:  "Vimium for Google Chrome"
 date:   2015-07-23 19:25:44
-categories: personal
+categories: productivity chrome
 short: >
   I am a mouse hater. I prefer doing everything with keyboard. Browsing
   was always a chore for me until vimium came to rescue...
