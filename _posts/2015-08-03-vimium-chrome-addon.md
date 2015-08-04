@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Vimium for Google Chrome"
-date:   2015-07-23 19:25:44
 categories: productivity
 tags: productivity chrome
 short: >
