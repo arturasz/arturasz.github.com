@@ -4,12 +4,12 @@ title:  "DIY hologram with a phone"
 categories: diy
 tags: diy, hologram, video
 short: >
-  It is so fascinating to see stuff flying, we are human being that dream about flying
+  It is so fascinating to see stuff flying, we are human beings that dream about flying
   and holograms make things fly.
 ---
 
-  It is so fascinating to see stuff flying, we are human being that dream about it
-holograms has similar power. I stumbled on this video, and it will be my next small project.
+  It is so fascinating to see stuff flying, we are human beings that dream about it.
+And holograms have the power to fly (sort of). I stumbled on this video, and it will be my next small project.
 
 This time, here is a video instead of text. Enjoy:
 
