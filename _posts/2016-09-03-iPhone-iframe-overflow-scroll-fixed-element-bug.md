@@ -5,6 +5,8 @@ categories: coding
 tags: javascript iPhone html react
 ---
 
+Moving fixed element out of the overflow: scroll div fixes erratic behaviour
+
 We had 2 elements which had fixed positioning.
 
 {% highlight html %}
