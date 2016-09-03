@@ -2,7 +2,7 @@
 layout: post
 title:  "Testing clojure post json request"
 categories: coding
-tags: clojure, tdd, json
+tags: clojure tdd json
 short: >
   For the last few days I am playing with clojure and this is what made
   me stuck and solution I found (testing json post request)

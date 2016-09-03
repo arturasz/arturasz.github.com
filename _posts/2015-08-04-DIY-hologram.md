@@ -2,7 +2,7 @@
 layout: post
 title:  "DIY hologram with a phone"
 categories: diy
-tags: diy, hologram, video
+tags: diy hologram video
 short: >
   It is so fascinating to see stuff flying, we are human beings that dream about flying
   and holograms make things fly.

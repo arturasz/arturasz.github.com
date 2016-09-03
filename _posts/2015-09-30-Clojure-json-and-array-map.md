@@ -2,7 +2,7 @@
 layout: post
 title:  "Clojure json and array map"
 categories: coding
-tags: clojure, tdd, json
+tags: clojure tdd json
 short: >
   Clojure has an interesting way of having keys as different types
 ---

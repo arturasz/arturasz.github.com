@@ -2,7 +2,7 @@
 layout: post
 title:  "iPhone safari has a bug when using fixed element in overflow div while in an iframe"
 categories: coding
-tags: javascript, iPhone, html, react
+tags: javascript iPhone html react
 ---
 
 We had 2 elements which had fixed positioning.
