@@ -5,6 +5,8 @@ categories: coding
 tags: javascript wallabyjs fake-wallaby mocha
 ---
 
+Sorts your js imports by assigning weights
+
 {% highlight emacs-lisp %}
 
   (defun sort-js-imports ()
